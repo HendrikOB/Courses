@@ -1,0 +1,18 @@
+{
+  "name": "Styde/magic3",
+  "description": "wada2",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "HendrikOB",
+      "email": "hendrikob@yahoo.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Styde\\": "src/"
+    }
+  }
+}

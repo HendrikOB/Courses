@@ -1,0 +1,17 @@
+{
+    "name": "styde/magic4",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HendrikOB",
+            "email": "hendrikob@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Styde\\": "src/"
+        }
+    }
+}
